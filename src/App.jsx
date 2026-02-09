@@ -42,7 +42,7 @@ function App() {
           <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
             {/* Logo + Company Name */}
             <div className="flex items-center space-x-3">
-              <motion.img
+              {/* <motion.img
                 src="https://rajkumar716.github.io/beyoundtechhub/companylogo.png"
                 alt="BeyoundTechHub Logo"
                 className="w-20 h-10 object-contain"
@@ -53,7 +53,7 @@ function App() {
                   transition: { type: "spring", stiffness: 200, damping: 10 },
                 }}
                 style={{ perspective: 600 }}
-              />
+              /> */}
               <h1
                 className="text-2xl font-bold text-transparent drop-shadow-lg"
                 style={{
