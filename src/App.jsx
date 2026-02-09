@@ -43,7 +43,7 @@ function App() {
             {/* Logo + Company Name */}
             <div className="flex items-center space-x-3">
               <motion.img
-                src="/companylogo.png"
+                src="https://rajkumar716.github.io/companylogo.png"
                 alt="BeyoundTechHub Logo"
                 className="w-20 h-10 object-contain"
                 whileHover={{
